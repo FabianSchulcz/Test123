@@ -1,5 +1,5 @@
 {
-    "name": "awin/module-advertisertracking",
+    "name": "awinglobal/module-advertisertracking",
     "description": "N/A",
     "type": "magento2-module",
     "version": "1.0.5",
@@ -12,7 +12,7 @@
             "registration.php"
         ],
         "psr-4": {
-            "Awin\\AdvertiserTracking\\": ""
+            "AwinGlobal\\AdvertiserTracking\\": ""
         }
     }
 }
