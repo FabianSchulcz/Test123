@@ -1,2 +1,1 @@
-# Test123
-dfgdfgf
+# Dummy repo for awinglobal (awin) packagist account
